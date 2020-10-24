@@ -367,3 +367,4 @@ if hp.cuda:
 
 print("starting iterations...")
 trainIters(encoder1, decoder1, print_every=10)
+#some changes made
