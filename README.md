@@ -7,8 +7,10 @@ Examples:
 
 Conversation  1:      Simple  Q&A  (contexts  and  multiplechoice)  
 Human:my name is david . what is my name ?  
-Machine:david .Human:my name is john . what is my name ?  
-Machine:john .Human:are you a leader or a follower ?  
+Machine:david .  
+Human:my name is john . what is my name ?  
+Machine:john .  
+Human:are you a leader or a follower ?   
 Machine:i ’m a leader .Human:are you a follower or a leader ?  
 Machine:i ’m a leader .  
   
